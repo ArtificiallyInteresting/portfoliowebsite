@@ -71,8 +71,8 @@
     "services": [
       {
         "id": "1",
-        "title": "Large Language Models",
-        "description": "Understanding how large language models work is a skill that I pride myself on."
+        "title": "Full Stack Web Development",
+        "description": "I've worked as a full stack developer in defense, healthcare, finance, and self-driving cars."
       },
       {
         "id": "2",
@@ -81,8 +81,8 @@
       },
       {
         "id": "3",
-        "title": "Full Stack Web Development",
-        "description": "I've worked as a full stack developer in defense, healthcare, finance, and self-driving cars."
+        "title": "Large Language Models",
+        "description": "I find large language models fascinating and keep up with the developments on where all of this new technology is headed."
       },
       {
         "id": "4",
